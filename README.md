@@ -1,6 +1,7 @@
 # 🎤 Speech Diarization with Azure Cognitive Services
 
-<img width="1376" height="768" alt="Customer_Support_Transcription" src="https://github.com/user-attachments/assets/10460935-106d-4ded-bc6d-c1d34b8aeb25" />
+<img width="1376" height="768" alt="Binod_Suman_Azure_Trnscription_Translation" src="https://github.com/user-attachments/assets/66175c7e-e194-46f3-a976-5d8bcfe3be78" />
+
 
 A Spring Boot application that performs speaker diarization on WAV files using Azure Speech Services. The application identifies different speakers in an audio file, provides timestamped transcripts with speaker labels, and **automatically translates non-English content to English** while preserving the original language.
 
