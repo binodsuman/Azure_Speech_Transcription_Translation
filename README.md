@@ -1,4 +1,4 @@
-# 🎤 Speech Diarization with Azure Cognitive Services
+# 🎤 Speech Diarization and Translation with Azure Cognitive Services
 
 <img width="1376" height="768" alt="Binod_Suman_Azure_Trnscription_Translation" src="https://github.com/user-attachments/assets/66175c7e-e194-46f3-a976-5d8bcfe3be78" />
 
