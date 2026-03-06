@@ -13,10 +13,10 @@
     </parent>
 
     <groupId>com.example</groupId>
-    <artifactId>STT_Seek</artifactId>
+    <artifactId>azure_trnscription_translation</artifactId>
     <version>1.0.0</version>
-    <name>speech-diarization-app</name>
-    <description>Spring Boot app for speech diarization with Azure</description>
+    <name>azure-transcription-translation-app</name>
+    <description>Spring Boot app for speech diarization and Translation with Azure</description>
 
     <properties>
         <java.version>17</java.version>
