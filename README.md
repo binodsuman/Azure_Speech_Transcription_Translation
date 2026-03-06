@@ -141,8 +141,8 @@ azure.storage.container-name=speech-files
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/speech-diarization-app.git
-cd speech-diarization-app
+git clone https://github.com/binodsuman/Azure_Speech_Transcription_Translation.git
+cd Azure_Speech_Transcription_Translation
 
 # Configure Azure credentials
 # Edit src/main/resources/application.properties with your Azure keys
